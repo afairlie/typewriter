@@ -6,7 +6,7 @@ for (const char of sentence) {
   setTimeout(() => {
     // print the char here
     process.stdout.write(char);
-  }, miliSecs += 50) // <= 1s delay to make it noticeable. Can dial it down later.
+  }, miliSecs += 50)
 }
 
-// pair programmed with git @afairlie (Wares)
+// pair programmed with Wares
