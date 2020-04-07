@@ -9,4 +9,4 @@ for (const char of sentence) {
   }, miliSecs += 50)
 }
 
-// pair programmed with Wares
+// pair programmed with Wares (git: @waresfaz)
